@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\tarakanibega\tarakanibega\bin\Debug\tarakanibega.exe.config
+C:\Users\student\source\repos\tarakanibega\tarakanibega\bin\Debug\tarakanibega.exe
+C:\Users\student\source\repos\tarakanibega\tarakanibega\bin\Debug\tarakanibega.pdb
+C:\Users\student\source\repos\tarakanibega\tarakanibega\obj\Debug\tarakanibega.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\tarakanibega\tarakanibega\obj\Debug\tarakanibega.Form1.resources
+C:\Users\student\source\repos\tarakanibega\tarakanibega\obj\Debug\tarakanibega.Properties.Resources.resources
+C:\Users\student\source\repos\tarakanibega\tarakanibega\obj\Debug\tarakanibega.csproj.GenerateResource.cache
+C:\Users\student\source\repos\tarakanibega\tarakanibega\obj\Debug\tarakanibega.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\tarakanibega\tarakanibega\obj\Debug\tarakanibega.exe
+C:\Users\student\source\repos\tarakanibega\tarakanibega\obj\Debug\tarakanibega.pdb
